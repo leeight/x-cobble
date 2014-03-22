@@ -2,7 +2,7 @@
  * @file 首页模块
  * @author zhujl
  */
-define(function (require, exports) {
+define(function (require, exports, module) {
 
     /**
      * 存储页面模版
