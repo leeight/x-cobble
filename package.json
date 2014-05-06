@@ -1,8 +1,8 @@
 {
   "name": "cobble",
   "author": "zhujl",
-  "version": "0.1.0",
-  "description": "javascript tools for web develop",
+  "version": "0.1.1",
+  "description": "javascript tools for web develop (test webhook)",
   "main": "",
   "directories": {
     "doc": "doc"
