@@ -1,7 +1,7 @@
 {
-  "name": "cobble",
+  "name": "x-cobble",
   "author": "zhujl",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "javascript tools for web develop (test webhook)",
   "main": "",
   "directories": {
